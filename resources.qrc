@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tmp_icon.png</file>
+        <file>water_icon.png</file>
+        <file>pir_icon.png</file>
+        <file>main.qml</file>
+    </qresource>
+</RCC>
