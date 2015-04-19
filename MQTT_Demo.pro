@@ -24,7 +24,8 @@ SOURCES += main.cpp \
     qmqtt_frame.cpp \
     qmqtt_message.cpp \
     qmqtt_network.cpp \
-    qmqtt_will.cpp
+    qmqtt_will.cpp \
+    mqttwrapper.cpp
 
 
 HEADERS  += qmainwidget.h \
@@ -35,7 +36,8 @@ HEADERS  += qmainwidget.h \
     qmqtt_global.h \
     qmqtt_message.h \
     qmqtt_network.h \
-    qmqtt_will.h
+    qmqtt_will.h \
+    mqttwrapper.h
 
 RESOURCES += \
     resources.qrc
